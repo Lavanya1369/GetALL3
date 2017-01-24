@@ -3,4 +3,7 @@
     <string name="app_name">GetALL</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_sign">Sign</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_display">Display</string>
 </resources>
